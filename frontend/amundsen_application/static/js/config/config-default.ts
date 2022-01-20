@@ -40,8 +40,8 @@ const configDefault: AppConfig = {
     },
   },
   logoPath: null,
-  logoTitle: 'AMUNDSEN',
-  documentTitle: 'Amundsen - Data Discovery Portal',
+  logoTitle: 'James Delivery',
+  documentTitle: 'Jamespedia',
   numberFormat: null,
   mailClientFeatures: {
     feedbackEnabled: false,
