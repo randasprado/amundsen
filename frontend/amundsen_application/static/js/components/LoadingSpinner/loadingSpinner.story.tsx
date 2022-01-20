@@ -9,9 +9,9 @@ import LoadingSpinner from '.';
 
 const stories = storiesOf('Attributes/States', module);
 
-stories.add('Loading Spinner', () => (
+stories.add('200w', () => (
   <>
-    <StorySection title="Loading Spinner">
+    <StorySection title="200w">
       <LoadingSpinner />
     </StorySection>
   </>

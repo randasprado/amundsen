@@ -7,9 +7,9 @@ import './styles.scss';
 
 const LoadingSpinner: React.FC = () => (
   <img
-    src="/static/images/loading_spinner.gif"
+    src="/static/images/200w.gif"
     alt="loading..."
-    className="loading-spinner"
+    className="200w"
   />
 );
 
